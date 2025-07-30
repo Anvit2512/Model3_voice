@@ -1,0 +1,10 @@
+# Parkinson's Voice Detection
+
+This FastAPI app predicts Parkinson's disease from audio recordings using a trained neural network.
+
+### API Usage
+
+1. Upload an audio file using the `/predict/` endpoint.
+2. The API returns whether Parkinson's is detected, the label, and prediction confidence.
+
+Go to `/docs` once deployed to try it out.
